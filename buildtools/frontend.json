@@ -1,0 +1,32 @@
+{
+    "frontend":[
+        {
+            "path":"../../learn-fullstack/part2/countryinfo",
+            "script":"npm install && npm run build",
+            "dist":"",
+            "target":"../dist/countryinfo",
+            "clearnups":""
+        },
+        {
+            "path":"../../learn-fullstack/part2/courseinfo",
+            "script":"npm install && npm run build",
+            "dist":"",
+            "target":"../dist/courseinfo",
+            "clearnups":""
+        },
+        {
+            "path":"../../learn-fullstack/part2/notes",
+            "script":"npm install && npm run build",
+            "dist":"",
+            "target":"../dist/notes",
+            "clearnups":""
+        },
+{
+            "path":"../../learn-fullstack/part2/phonebook",
+            "script":"npm install && npm run build",
+            "dist":"",
+            "target":"../dist/phonebook",
+            "clearnups":""
+        }
+    ]
+}
